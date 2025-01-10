@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3f6b660b-33f7-4610-97aa-40327d9f4259)
+
 # WHOREMAIL CLI
 ```
 ██╗    ██╗██╗  ██╗ ██████╗ ██████╗ ███████╗███╗   ███╗ █████╗ ██╗██╗     
