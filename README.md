@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/c37617fa-37d0-4479-9844-43c3b91a8743)
 
+![image](https://github.com/user-attachments/assets/31c20865-063a-405b-9023-7b28b80e0bf3)
 
 # WHOREMAIL CLI
 ```
