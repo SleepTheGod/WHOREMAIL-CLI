@@ -9,7 +9,7 @@ display_banner() {
     echo "╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║███████╗██║ ╚═╝ ██║██║  ██║██║███████╗"
     echo " ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝"
     echo "Version 1.0 By SleepTheGod and SwatGodVox"
-    echo "Welcome to whore mail you slut I bet you fucking shower naked whore!     "
+    echo "Welcome to the email client!"
     echo
 }
 
@@ -229,18 +229,18 @@ while true; do
             ;;
         8)
             echo "Logging out..."
-            rm cookies.txt
+            rm -f cookies.txt
             exit 0
             ;;
         9)
-            echo "Exiting..."
+            echo "Exiting application..."
             exit 0
             ;;
         h)
             show_command_help
             ;;
         *)
-            echo "Invalid option. Please try again."
+            echo "Invalid option, please try again."
             ;;
     esac
 done
